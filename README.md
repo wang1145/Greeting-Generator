@@ -1,7 +1,4 @@
-Here's a markdown file that you can use for publishing your Python project on GitHub. This file provides an overview of the project, instructions on how to use it, and other relevant details.
 
-**File: C:/Users/Sam/PycharmProjects/PythonProject/README.md**
-```markdown
 # 蛇年祝福语生成器
 
 欢迎使用蛇年祝福语生成器！这个项目是一个简单的 Python 程序，用于生成各种类型的蛇年祝福语。用户可以选择不同的祝福类型，程序将随机生成一条对应的祝福语。
